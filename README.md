@@ -1,4 +1,4 @@
-Full-stack | Blockchain developer.
+<h1>Full-stack | Blockchain developer</h1>
 
 > ###  Results-driven software developer with outstanding experience in both front-end applications and back-end architecture design and implementation.
 >
@@ -6,7 +6,7 @@ Full-stack | Blockchain developer.
 >
 > ### I am always prepared to grow your revenue exponentially, as only a remote role.
 
-Experiences :
+<h1>Experiences</h1>
 
 > ### Blockchain(BitCoin | Ethereum | TRON | BSC)
 >
@@ -21,7 +21,7 @@ Experiences :
 > * Web based system development(PHP, Laravel, NodeJS...)
 > * Ecommerce website development(Woocommerce, Shopify...)
 
-Skills :
+<h1>Skills</h1>
 
 > * Solidity, Web3.js
 > *  NodeJS, ReactJs, VueJS, AngularJS
