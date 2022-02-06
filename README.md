@@ -26,4 +26,4 @@
 > * Solidity, Web3.js
 > *  NodeJS, ReactJs, VueJS, AngularJS
 > * HTML5, CSS3, JavaScript, MySQL, PHP, Laravel, Codeigniter
-> * C, C++, C#
+> * C, C++, C#, Java
