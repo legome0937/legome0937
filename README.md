@@ -4,7 +4,7 @@
 >
 > ### Having astute understanding in blockchain world/NFT marketplaces - Smart Contracts, Ethereum, Web3… and create a professional-grade smart contract for your project's unique needs.
 >
-> ### I am always prepared to grow your revenue exponentially, as only a remote role.
+> ### I am always prepared to grow your revenue exponentially.
 
 <h1>Experiences</h1>
 
