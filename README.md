@@ -1,5 +1,5 @@
 <h1>Full-stack | Blockchain developer</h1>
-
+You can contact me via blockchampion324@gmail.com
 > ###  Results-driven software developer with outstanding experience in both front-end applications and back-end architecture design and implementation.
 >
 > ### Having astute understanding in blockchain world/NFT marketplaces - Smart Contracts, Ethereum, Web3… and create a professional-grade smart contract for your project's unique needs.
