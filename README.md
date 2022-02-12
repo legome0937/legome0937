@@ -6,7 +6,7 @@ You can contact me via ```blockchampion324@gmail ```
 >
 > ### Having astute understanding in blockchain world/NFT marketplaces - Smart Contracts, Ethereum, Web3… and create a professional-grade smart contract for your project's unique needs.
 >
-> ### I am always prepared to grow your revenue exponentially.
+> ### I am always prepared to grow your revenue exponentially. You can see my will at the footer.
 
 <h1>Experiences</h1>
 
