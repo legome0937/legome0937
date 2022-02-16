@@ -1,7 +1,8 @@
 <h1>Full-stack | Blockchain developer</h1>
 
-You can contact me via 
-```blockchampion324@gmail ```
+You can contact me via :
+
+```blockchampion324@gmail.com ```
 ```live:.cid.b829271a77cf7de0 ```
 
 > ###  Results-driven software developer with outstanding experience in both front-end applications and back-end architecture design and implementation.
