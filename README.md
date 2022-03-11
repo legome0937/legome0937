@@ -32,7 +32,7 @@ Skype: ```live:.cid.b829271a77cf7de0 ```
 > * Solidity, Web3.js
 > *  NodeJS, ReactJs, VueJS, AngularJS
 > * HTML5, CSS3, TypeScript, JavaScript, MySQL, PHP, Laravel, Codeigniter
-> * C, C++, C#, Java
+> * C, C++, C#, Java 
 
 
 ![developer](https://user-images.githubusercontent.com/98485373/152718398-2a028396-9ea6-466f-af03-b993054a4574.gif)
