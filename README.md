@@ -10,7 +10,7 @@ Skype: ```live:.cid.b829271a77cf7de0 ```
 >
 > ### Having astute understanding in blockchain world/NFT marketplaces - Smart Contracts, Ethereum, Web3… and create a professional-grade smart contract for your project's unique needs.
 >
-> ### I am always prepared to grow your revenue exponentially. 
+
 <h1>Experiences</h1>
 
 > ### Blockchain(BitCoin | Ethereum | TRON | BSC)
